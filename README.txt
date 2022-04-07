@@ -1,3 +1,8 @@
+The program opens a GUI representing a file system on AWS S3. 
+The GUI is not my creation, but the functionality that allows 
+files to be drag and dropped into the file system is. It also
+allows files to be deleted.
+
 This program DOES NOT run from the command line.
 To make it run, do the following steps:
 
